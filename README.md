@@ -1,7 +1,7 @@
 # facemojii
 tespit edilen yüzlere emoji eklenmesi
 
-Verilen emojileri image isimli dosya oluşturup çalıştırınız.
+Verilen emojileri image adında dosya açıp içine atarak çalıştırınız.
 
 Yüzlerin tespit edilmesi
 ![1](https://user-images.githubusercontent.com/32296303/149261294-94221aba-104a-4c51-bade-87ce880d891c.PNG)
